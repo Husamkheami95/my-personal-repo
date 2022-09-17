@@ -35,6 +35,6 @@ I'm a Full stack Developer !!
 
 Find me around the web 🌎
 <p>
-  Practising on  <a href="https://codeforces.com/profile/husam_kh95" rel="nofollow noreferrer>Codeforces </a>🙃
+  Practising on  <a href="https://codeforces.com/profile/husam_kh95" >Codeforces</a>🙃
 </p>
 
