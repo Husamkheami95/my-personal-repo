@@ -1,4 +1,9 @@
-Hi there, I'm Hussam 👋
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  Hi there, I'm Hussam 👋
+</div>
+
 <p>
   <a href="https://www.linkedin.com/in/hussam-kheami/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
