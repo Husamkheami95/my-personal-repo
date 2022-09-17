@@ -5,7 +5,7 @@
 </div>
 
 
- <img src="https://i.stack.imgur.com/gVE0j.png" ](https://www.etatvasoft.com/blog/wp-content/uploads/2022/03/React.js-vs-React-Native-Key-Difference-that-Every-Developer-Must-Know.jpg" >
+ <img src="https://www.etatvasoft.com/blog/wp-content/uploads/2022/03/React.js-vs-React-Native-Key-Difference-that-Every-Developer-Must-Know.jpg" >
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussam-kheami/" rel="nofollow noreferrer">
