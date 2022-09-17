@@ -34,4 +34,4 @@ I'm a Full stack Developer !!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Find me around the web 🌎
-Practising on  <a href="https://www.linkedin.com/in/hussam-kheami/](https://codeforces.com/profile/husam_kh95">Codeforces </a>🙃
+Practising on  <a href="https://codeforces.com/profile/husam_kh95" rel="nofollow noreferrer>Codeforces </a>🙃
