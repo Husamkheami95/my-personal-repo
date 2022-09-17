@@ -4,8 +4,11 @@
   <p align="center"> Hi there, I'm Hussam 👋</p>
 </div>
 
+  <div align="center">
+   <img  src="https://www.etatvasoft.com/blog/wp-content/uploads/2022/03/React.js-vs-React-Native-Key-Difference-that-Every-Developer-Must-Know.jpg" width=500 >
 
- <img align="center" src="https://www.etatvasoft.com/blog/wp-content/uploads/2022/03/React.js-vs-React-Native-Key-Difference-that-Every-Developer-Must-Know.jpg" width=300 >
+   </div>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussam-kheami/" rel="nofollow noreferrer">
