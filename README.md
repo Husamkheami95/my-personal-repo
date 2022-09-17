@@ -27,6 +27,7 @@
 
 
 </br>
+<hr>
 🔧 Technologies & Tools
 </br>
   
