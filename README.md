@@ -19,10 +19,12 @@
   </div>
   <hr>
 
-<p>
-⚡ I’m looking to learn more things every day 
-✉️  You can shoot me an email at mh.hussam.khyami@gmail.com ! I'll try to respond as soon as I can
+<ul>
+  <li>⚡ I’m looking to learn more things every day </li>
+  <li>✉️  You can shoot me an email at mh.hussam.khyami@gmail.com ! I'll try to respond as soon as I can
 </p>
+ </li>
+ </ul>
 
 
 
