@@ -15,9 +15,8 @@
 
 <div  align="center">
 <p>👨🏻‍💻  About Me</p>
-<p  font-weight="bold">I'm a Full stack Developer !!<p>
   </div>
-
+<p >I'm a Full stack Developer !!</p>
 <ul>
   <li>⚡ I’m looking to learn more things every day </li>
   <li>✉️  You can shoot me an email at mh.hussam.khyami@gmail.com ! I'll try to respond as soon as I can
