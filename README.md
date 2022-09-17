@@ -32,3 +32,6 @@ I'm a Full stack Developer !!
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Find me around the web 🌎
+Practising on  <a href="https://www.linkedin.com/in/hussam-kheami/](https://codeforces.com/profile/husam_kh95">Codeforces </a>🙃
