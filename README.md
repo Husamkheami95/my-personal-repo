@@ -15,9 +15,8 @@
 
 <div  align="center">
 <p>👨🏻‍💻  About Me</p>
-<p  font-weight:"bold">I'm a Full stack Developer !!<p>
+<p  font-weight="bold">I'm a Full stack Developer !!<p>
   </div>
-  <hr>
 
 <ul>
   <li>⚡ I’m looking to learn more things every day </li>
