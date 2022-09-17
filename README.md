@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.etatvasoft.com/blog/wp-content/uploads/2022/03/React.js-vs-React-Native-Key-Difference-that-Every-Developer-Must-Know.jpg)" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.etatvasoft.com/blog/wp-content/uploads/2022/03/React.js-vs-React-Native-Key-Difference-that-Every-Developer-Must-Know.jpg" />
 
 </div>
 
